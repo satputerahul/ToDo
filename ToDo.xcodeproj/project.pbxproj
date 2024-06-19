@@ -24,6 +24,8 @@
 		8BE7602B2BF8856200BA6103 /* ResetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BE7602A2BF8856200BA6103 /* ResetViewController.swift */; };
 		A64C372D2C16C92F00542FE8 /* ToDoStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A64C372C2C16C92F00542FE8 /* ToDoStoryboard.storyboard */; };
 		A64C37322C16C97E00542FE8 /* ToDoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64C37312C16C97E00542FE8 /* ToDoListViewController.swift */; };
+		A69291702C39467F0066CD5A /* SplashScreenStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A692916F2C39467F0066CD5A /* SplashScreenStoryboard.storyboard */; };
+		A69291722C3946AA0066CD5A /* SplashScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A69291712C3946AA0066CD5A /* SplashScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +48,8 @@
 		8BE7602A2BF8856200BA6103 /* ResetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResetViewController.swift; sourceTree = "<group>"; };
 		A64C372C2C16C92F00542FE8 /* ToDoStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ToDoStoryboard.storyboard; sourceTree = "<group>"; };
 		A64C37312C16C97E00542FE8 /* ToDoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListViewController.swift; sourceTree = "<group>"; };
+		A692916F2C39467F0066CD5A /* SplashScreenStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SplashScreenStoryboard.storyboard; sourceTree = "<group>"; };
+		A69291712C3946AA0066CD5A /* SplashScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,12 +91,14 @@
 				8B97562C2C00A54B00BD5819 /* VerifyViewController.swift */,
 				8B97562E2C00A5E700BD5819 /* CreateNewPasswordViewController.swift */,
 				A64C37312C16C97E00542FE8 /* ToDoListViewController.swift */,
+				A69291712C3946AA0066CD5A /* SplashScreenViewController.swift */,
 				8B9756302C00C22A00BD5819 /* Toast.swift */,
 				8BE760122BF8772500BA6103 /* Main.storyboard */,
 				A64C372C2C16C92F00542FE8 /* ToDoStoryboard.storyboard */,
 				8BE760202BF87B0F00BA6103 /* LoginStoryboard.storyboard */,
 				8BE760222BF87B3400BA6103 /* SignUpStoryboard.storyboard */,
 				8BE760242BF87B4200BA6103 /* ResetStoryboard.storyboard */,
+				A692916F2C39467F0066CD5A /* SplashScreenStoryboard.storyboard */,
 				8BE760152BF8772700BA6103 /* Assets.xcassets */,
 				8BE760172BF8772700BA6103 /* LaunchScreen.storyboard */,
 				8BE7601A2BF8772700BA6103 /* Info.plist */,
@@ -163,6 +169,7 @@
 				A64C372D2C16C92F00542FE8 /* ToDoStoryboard.storyboard in Resources */,
 				8BE760192BF8772700BA6103 /* LaunchScreen.storyboard in Resources */,
 				8BE760162BF8772700BA6103 /* Assets.xcassets in Resources */,
+				A69291702C39467F0066CD5A /* SplashScreenStoryboard.storyboard in Resources */,
 				8BE760142BF8772500BA6103 /* Main.storyboard in Resources */,
 				8BE760212BF87B0F00BA6103 /* LoginStoryboard.storyboard in Resources */,
 				8BE760252BF87B4200BA6103 /* ResetStoryboard.storyboard in Resources */,
@@ -181,6 +188,7 @@
 				8BE760112BF8772500BA6103 /* ViewController.swift in Sources */,
 				8BE7600D2BF8772500BA6103 /* AppDelegate.swift in Sources */,
 				8BE7600F2BF8772500BA6103 /* SceneDelegate.swift in Sources */,
+				A69291722C3946AA0066CD5A /* SplashScreenViewController.swift in Sources */,
 				8BE7602B2BF8856200BA6103 /* ResetViewController.swift in Sources */,
 				8BE760292BF8854F00BA6103 /* SignUpViewController.swift in Sources */,
 				8B9756312C00C22A00BD5819 /* Toast.swift in Sources */,

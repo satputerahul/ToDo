@@ -20,7 +20,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aYK-m5-t4d">
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="graphic-2d-colorful-wallpaper-with-grainy-gradients" translatesAutoresizingMaskIntoConstraints="NO" id="Uw0-bk-fZv">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="Uw0-bk-fZv">
                                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="paU-Yd-5xL">
@@ -276,9 +276,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="background" width="3264" height="5824"/>
         <image name="facebook" width="512" height="512"/>
         <image name="google" width="512" height="512"/>
-        <image name="graphic-2d-colorful-wallpaper-with-grainy-gradients" width="3264" height="5824"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

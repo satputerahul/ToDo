@@ -20,7 +20,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bma-nn-isY">
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="graphic-2d-colorful-wallpaper-with-grainy-gradients" translatesAutoresizingMaskIntoConstraints="NO" id="D7d-D2-wdi">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="D7d-D2-wdi">
                                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                         <constraints>
                                             <constraint firstAttribute="width" constant="393" id="NVk-TQ-6vm"/>
@@ -189,7 +189,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="J90-So-q40">
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="graphic-2d-colorful-wallpaper-with-grainy-gradients" translatesAutoresizingMaskIntoConstraints="NO" id="HXe-A6-u8c">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="HXe-A6-u8c">
                                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="852" id="NEo-DK-xTt"/>
@@ -426,7 +426,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2xV-04-3rI">
                                 <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="graphic-2d-colorful-wallpaper-with-grainy-gradients" translatesAutoresizingMaskIntoConstraints="NO" id="JRd-Cq-nfC">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="JRd-Cq-nfC">
                                         <rect key="frame" x="0.0" y="-17" width="393" height="869"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cqi-9G-O7v">
@@ -565,7 +565,7 @@
     </scenes>
     <resources>
         <image name="back" width="512" height="512"/>
-        <image name="graphic-2d-colorful-wallpaper-with-grainy-gradients" width="3264" height="5824"/>
+        <image name="background" width="3264" height="5824"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
